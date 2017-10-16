@@ -1,0 +1,22 @@
+﻿  CLM.cc
+  FCheck.cc
+  FDet.cc
+..\src\lib\FDet.cc(98): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\src\lib\FDet.cc(99): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  IO.cc
+  Patch.cc
+..\src\lib\Patch.cc(93): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  PAW.cc
+  PDM.cc
+  Tracker.cc
+..\src\lib\Tracker.cc(138): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\src\lib\Tracker.cc(140): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\src\lib\Tracker.cc(141): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\src\lib\Tracker.cc(152): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+..\src\lib\Tracker.cc(153): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+..\src\lib\Tracker.cc(173): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\src\lib\Tracker.cc(177): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\src\lib\Tracker.cc(178): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\src\lib\Tracker.cc(181): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+..\src\lib\Tracker.cc(182): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  Tracker.vcxproj -> C:\Users\Samantha\Desktop\CSC212HW4\FaceTracker\msvc\..\bin\Tracker.lib

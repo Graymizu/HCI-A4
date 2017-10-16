@@ -1,0 +1,23 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (..\Temp\) contains files shared from another project (Tracker.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  face_tracker.cc
+..\src\exe\face_tracker.cc(61): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\src\exe\face_tracker.cc(63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\src\exe\face_tracker.cc(66): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\src\exe\face_tracker.cc(68): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\src\exe\face_tracker.cc(71): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\src\exe\face_tracker.cc(73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\src\exe\face_tracker.cc(82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\src\exe\face_tracker.cc(84): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\src\exe\face_tracker.cc(90): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\src\exe\face_tracker.cc(96): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\src\exe\face_tracker.cc(100): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\src\exe\face_tracker.cc(104): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\src\exe\face_tracker.cc(108): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\src\exe\face_tracker.cc(184): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+..\src\exe\face_tracker.cc(223): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  1 of 770 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  face_tracker.vcxproj -> C:\Users\Samantha\Desktop\CSC212HW4\FaceTracker\msvc\..\bin\face_tracker.exe
